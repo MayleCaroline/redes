@@ -1,0 +1,27 @@
+Discente: Maile Caroline TI 431
+1.
+Barramento: Os computadores são ligados ao mesmo barramento físico de dados, no entanto, só uma máquina pode executar algum comando, quanto as outras máquinas esperam sua vez tornando-se isso uma de suas desvantagens, além disso ao haver diversas máquinas o sistema fica lento, é difícil um problema ficar isolado e uma falha no sistema prejudica todos os computadores. Apesar de todos os problemas o usuário gasta menos, é fácil de manusear, é seguro e de fácil expansão.
+
+Estrela: Deixa um ponto central, ao qual as máquinas se conectam, transmitir informações em cabos isolados tendo como maior vantagem a detecção de problemas, além disso a falha em um computador se mantém isolado. Adição e codificação de novos computadores é simples. Porém uma falha no ponto central afeta todas as máquinas.
+Anel: As máquinas são conectadas em série formando um circuito fechado. Os dados passam por todos os dispositivos até chegar a máquina em destino, uma grande vantagem desta topologia é que mesmo com um grande tráfego todas as máquinas recebem e enviam dados de forma igualitária, porém uma falha na rede afeta todas as máquinas e esta falha não se mantém de forma isolada.
+
+2.
+Internet é uma rede que transmite dados entre usuários em todo o mundo, intranet é uma internet restrita a um determinado local e extranet é uma extensão da intranet.
+
+3.
+O Modelo OSI tem 7 camadas nelas estão:
+A camada física recebe e envia bits por um meio físico.
+Camada de vínculo de dados detecta os erros.
+Na camada de rede a mesma é gerenciada.
+Camada de transporte vincula a fonte dos dados e o destino.
+Camada de sessão conecta as máquinas.
+Camada de apresentação cria uma interface de fácil entendimento ao usuário.
+Camada de aplicação mostra a interface e recebe os comandos dos usuários.
+
+4.
+As camadas do padrão TCP/IP fazem o controle da repartição de dados.
+
+5.
+Hub é um dispositivo que conecta computadores de uma rede local enviando e recebendo dados de um computador a outro.
+O switch faz o mesmo que o hub, porém utilizando várias vias enquanto que o hub só utiliza uma.
+Enquanto que o roteador atua de forma mais inteligente que o switch, escolhendo na menor rota entre a fonte e o destino.
