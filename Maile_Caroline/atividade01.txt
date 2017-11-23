@@ -1,0 +1,36 @@
+Discente: Maile Caroline Santos Novaes
+
+
+
+Prática :
+
+2) 10.17.8.0 Houve êxito
+
+4)Network is unreachable
+
+6)1c:65:9d:71:b7:6f Antes
+1c:65:9d:71:b7:a1 Após a mudança
+
+Atividades:
+
+Questão 1:
+Default gateway (ou gateway padrão) é responsável pela conexão com o IP da rede.
+
+Questão 2:
+A alteração do endereço mac da placa de rede pode ocasionar problemas de conectividade entre o computador e a rede.
+
+Questão 3:
+Porta TCP
+
+Foi necessário a permissão como administrador e comando tais como up e down.
+
+Questão 4:
+Porque a preferência é a segurança e não a velocidade, já que o TCP priveligia a segurança e UDP a velocidade.
+
+Questão 5:
+Útil para saber endereços remotos,local e estado. A saida TCP retorna dados, enquanto UDP só envia.
+
+
+
+
+
