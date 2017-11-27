@@ -1,0 +1,46 @@
+Discente: Maile Caroline Santos Novaes
+
+
+
+Questões do livro Redes de Computadores e a Internet
+
+
+
+Seção 4.1.
+Questão 1:
+
+Datagrama é um pacote de camada de rede. Comutadores  decidem o repasse com base no valor que está no 
+campo da camada de enlace e os roteadores tomam sua decisão de repasse no valor que está no campo de camada de rede.
+
+
+Seção 4.4. Questões 12, 13, 14, 18, 19
+
+Questão 12:
+Roteadores tem endereço IP, esses endereços possuem a mesma quantidade de interfaces.
+
+Questão 13:
+223.1.3.27
+11011111.00000001.00000011. 00011011
+
+Questão 14:
+IP: 10.17.8.41                                         
+Máscara de rede: 255.255.248.0
+Roteador de default: 10.17.10.220
+Endereço do IP do DNS Local: 10.17.10.20
+
+Questão 18:
+O roteador sem fio usa NAT e os endereços de IP podem ser atribuídos ao computadores pelo DHCP
+
+Questão 19:
+O IPV4 é um endereço de 32 bits já o IPV6 é um endereço de 128 bits, o endereço do IPV4 tem que ser adicionado manualmente,
+já o endereço do IPV6 funciona por meio de autoconfiguração. O IPV4 suporta pacotes de 576 bytes com risco de fragmentação, 
+o IPV6 suporta pacotes de 1280 bytes sem risco de fragmentação. 
+
+Questão 2:
+Roteamento estático: uma rede com um número limitado de roteadores para outras redes pode ser configurada com roteamento estático. 
+Roteamento dinâmico: redes que possui mais de uma rota possível para o mesmo ponto utilizam roteamento dinâmico.
+
+Questão 3:
+O Algoritmo de Dijkstra prevê o caminho de custo mínimo entre vértices de um grafo. Escolhendo um vértice como raiz da busca, 
+este algoritmo mede o custo mínimo deste vértice para todos os demais vértices do grafo. Ele é simples e com ótimo nível de 
+performance,porém, não garante a exatidão da solução caso tenha arcos com valores negativos.
