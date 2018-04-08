@@ -1,0 +1,76 @@
+1) 
+Comando pwd - /home/alunos
+
+2) 
+ Usou o comando mkdir para criar os diretórios.
+
+3) 
+Usou o comando cd.
+
+4) 
+ Usou o comando nano para criar os arquivos.
+
+
+5)
+Usou o comando cp.
+
+
+6) 
+cp *.txt ~/my_test/job1/task1
+
+7)
+
+8)
+cd task1
+chmoud 755 numbers.txt  
+
+
+9) chmoud 644 numbers1.txt  
+
+10)
+sudo cp -r /home/alunos/my_test/job1/task1 /home/alunos
+
+11) 
+mv  my_wor my_work1
+
+12) 
+rm -r task1
+
+13) 
+
+14) 
+Comando clear
+
+15)
+Comando top
+
+16)Comandos nano formulario.txt
+
+Formulário script bash:
+#!/bin/bash
+echo
+echo "Digite o Nome"
+read NOME
+echo
+echo "Digite o Sobrenome"
+read SOBRENOME
+echo
+echo "Qual seu Sexo"
+read SEXO
+echo
+echo "Qual sua Idade"
+read IDADE
+echo
+echo "Qual seu Nivel de escolaridade"
+read GRAU
+echo
+echo $NOME
+echo $SOBRENOME
+echo $SEXO
+echo $IDADE
+echo $GRAU
+
+chmoud 777 formulario.txt ./formulario.txt
+
+      
+      
